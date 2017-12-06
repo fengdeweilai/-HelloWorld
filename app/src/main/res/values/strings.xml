@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="changecolor">改变颜色</string>
+</resources>
